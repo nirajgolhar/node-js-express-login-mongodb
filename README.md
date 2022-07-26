@@ -20,6 +20,8 @@ node server.js
 ## Postman collection link provided
 
 - url: https://www.getpostman.com/collections/ba46ff0a32c6e43c0a0f
+- urlL https://go.postman.co/workspace/New-Team-Workspace~f39091b1-7b8b-4946-9cd6-319ffb69f3ad/collection/21698798-5e32dd33-b88f-4525-b186-25dd18be12ba?action=share&creator=21698798
+
 - multer package for image upload url: https://www.npmjs.com/package/multer
 
 
