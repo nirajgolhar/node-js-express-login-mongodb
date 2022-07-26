@@ -41,7 +41,7 @@ and if user is guest user then guest user can only saw those uploaded
 images. => ❌
 4. Separate Routes file should be there(mandotary). => ✔
 
-Please visit the postman collection i have shared , I have added the possible request there and not created the UI. 
+Please visit the postman collection i have shared , I have added the possible request there except for UI. 
 
 
 **Thank you!** 
